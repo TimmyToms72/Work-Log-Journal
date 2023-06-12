@@ -22,3 +22,13 @@ https://deepnight.net/tools/rpg-map/
 
 Sprite Editor:
 https://www.piskelapp.com/
+
+Sound effects:
+dark souls you died:
+https://www.youtube.com/watch?v=j_nV2jcTFvA
+sword swing:
+https://www.youtube.com/watch?v=Oa1mfoOInbA
+link getting hit:
+https://www.youtube.com/watch?v=MiF5ceGXPCE
+spider getting hit:
+https://www.youtube.com/watch?v=BT21l_op5KI
