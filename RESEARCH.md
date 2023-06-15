@@ -23,6 +23,9 @@ https://deepnight.net/tools/rpg-map/
 Sprite Editor:
 https://www.piskelapp.com/
 
+Sprite Used:
+https://videogamefanon.fandom.com/wiki/Super_Smash_Bros._Unlimited_Battleground/8-Bit_Link?file=8-Bit_Link.png
+
 Sound effects:
 dark souls you died:
 https://www.youtube.com/watch?v=j_nV2jcTFvA
